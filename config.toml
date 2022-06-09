@@ -1,4 +1,4 @@
-baseURL = 'http://blah.mx/'
+baseURL = 'https://blah.mx/'
 languageCode = 'en-us'
 title = 'Blah'
 theme = "terminal"

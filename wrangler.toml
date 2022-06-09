@@ -5,5 +5,5 @@ workers_dev = true
 bucket = "./public"
 route="blah.mx/*"
 main = "workers-site/index.js"
-site = {bucket = "./public"}
+site = {bucket = "./public", entry-point = "workers-site"}
 compatibility_date = "2021-09-16"

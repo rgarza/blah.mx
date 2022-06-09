@@ -1,8 +1,8 @@
 account_id = "d0c5d93007bf8434609ea82cb7251a61"
+type="webpack"
 name = "blahmx"
-type = "webpack"
 workers_dev = true
 route="blah.mx/*"
-zone_id="e30209b1be8a09171193b652c87fcf53"
-site = {bucket = "./public",entry-point = "workers-site"}
+main = "workers-site/index.js"
+site = {bucket = "./public"}
 compatibility_date = "2021-09-16"

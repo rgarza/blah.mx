@@ -1,5 +1,4 @@
 account_id = "d0c5d93007bf8434609ea82cb7251a61"
-type="webpack"
 name = "blahmx"
 workers_dev = true
 route="blah.mx/*"

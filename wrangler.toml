@@ -1,5 +1,6 @@
 account_id = "d0c5d93007bf8434609ea82cb7251a61"
 name = "blahmx"
+type="webpack"
 workers_dev = true
 bucket = "./public"
 route="blah.mx/*"
